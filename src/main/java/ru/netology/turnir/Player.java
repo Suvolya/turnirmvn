@@ -1,4 +1,5 @@
 package ru.netology.turnir;
+
 public class Player {
 
     private int id;
@@ -6,7 +7,7 @@ public class Player {
     private int strength;
 
 
-       public String getName() {
+    public String getName() {
         return name;
     }
 
